@@ -143,20 +143,11 @@ Python-dotenv – Environment handling
 
 
 
-📌 Future Improvements (Optional Roadmap)
+<img width="1718" height="1115" alt="Screenshot 2025-11-17 122938" src="https://github.com/user-attachments/assets/5e5345b4-2016-4ce1-82cd-ec068cbb4401" />
 
+<img width="1355" height="609" alt="Screenshot 2025-11-17 123250" src="https://github.com/user-attachments/assets/65c771ff-09af-47bc-badc-b883e8c62ee6" />
 
-Add authentication with API keys
-
-
-Add frontend (React/Streamlit) for file upload
-
-
-Add more models (T5, Pegasus, Llama)
-
-
-Convert into real production workflow using Docker + Azure
-
+<img width="1277" height="667" alt="Screenshot 2025-11-17 123312" src="https://github.com/user-attachments/assets/42c968b2-3087-408a-b011-0f968fceaeee" />
 
 
 🙌 Author
