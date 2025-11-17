@@ -121,6 +121,8 @@ POST /upload-multiple-summarize
 ✔ Supports PDF via PyPDF2
 ✔ Generates summary for each file
 
+# For easy understadning see screenshots shared in repository.
+
 🧠 Tech Used
 
 
