@@ -142,14 +142,6 @@ Pydantic – Request validation
 Python-dotenv – Environment handling
 
 
-
-<img width="1718" height="1115" alt="Screenshot 2025-11-17 122938" src="https://github.com/user-attachments/assets/5e5345b4-2016-4ce1-82cd-ec068cbb4401" />
-
-<img width="1355" height="609" alt="Screenshot 2025-11-17 123250" src="https://github.com/user-attachments/assets/65c771ff-09af-47bc-badc-b883e8c62ee6" />
-
-<img width="1277" height="667" alt="Screenshot 2025-11-17 123312" src="https://github.com/user-attachments/assets/42c968b2-3087-408a-b011-0f968fceaeee" />
-
-
 🙌 Author
 Abhishek Kumar
 Python Developer | AI-ML Engineer
